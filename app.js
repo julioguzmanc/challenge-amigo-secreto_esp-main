@@ -34,7 +34,7 @@ function actualizarLista() {
 
 function sortearAmigo() {
     if (amigos.length === 0) {
-        alert("Agrega al menos un amigo antes de realizar el sortear.");
+        alert("Agrega al menos un amigo antes de realizar el sorteo.");
         return;
     }
     
